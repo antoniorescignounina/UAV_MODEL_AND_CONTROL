@@ -4,7 +4,7 @@ Technical_project_Rescigno_Grasso.pdf for the report
 Project_Rescigno_Grasso.ppt for the presentation
 
 ------------------------------------------------------
-Matlab and Simulinlk FILES execution (MOTION AND TRAJECTORY PLANNING)
+Matlab and Simulinlk FILES execution (MOTION AND TRAJECTORY PLANNING developed by Francesco Grasso)
 
 (function "drawnow" in draw.m is commented)
 (If A_star.m  returns errors or "solution not found!" the path is not found)
@@ -15,7 +15,7 @@ Matlab and Simulinlk FILES execution (MOTION AND TRAJECTORY PLANNING)
 
 
 ------------------------------------------------------
-Matlab and Simulinlk FILES execution (CONTROLLERS)
+Matlab and Simulinlk FILES execution (CONTROLLERS developed by Antonio Rescigno)
 1) main.m
 2) choose the control to adopt from the menu (1 for PID 2 for passivity-based-control)
 3) execute the chosen control scheme on simulink
